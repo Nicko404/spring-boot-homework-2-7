@@ -1,0 +1,3 @@
+app:
+  data:
+    init-default-students: ${INIT_DEFAULT_DATA:false}
